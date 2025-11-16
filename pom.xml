@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://35.154.163.86:8081/repository/maven_snapshot1/</url>
+	      <url>http://35.154.163.86:8081/repository/snapshots_mavaen/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
