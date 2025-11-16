@@ -101,11 +101,6 @@
 	      <url>http://35.154.163.86:8081/repository/snapshots_mavaen/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://35.154.163.86:8081/repository/maven_realease1/</url>
-	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
